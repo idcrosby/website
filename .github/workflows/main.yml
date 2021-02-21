@@ -29,5 +29,5 @@ jobs:
         uses: google-github-actions/upload-cloud-storage@main
         with:
           credentials: ${{ secrets.GCLOUD_SA_KEY }}
-          path: /public
+          path: ./public
           destination: iancrosbytest
