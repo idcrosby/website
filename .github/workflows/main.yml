@@ -24,8 +24,17 @@ jobs:
 
       - name: Build
         run: hugo --minify
+
+      - name: DeployStaging
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: google-github-actions/upload-cloud-storage@main
+        with:
+          credentials: ${{ secrets.GCLOUD_SA_KEY }}
+          path: ./public
+          destination: iancrosbytest-staging
       
-      - id: upload-assets
+      - name: DeployProd
+        if: ${{ github.event_name == 'push' }}
         uses: google-github-actions/upload-cloud-storage@main
         with:
           credentials: ${{ secrets.GCLOUD_SA_KEY }}
