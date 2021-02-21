@@ -25,10 +25,9 @@ jobs:
       - name: Build
         run: hugo --minify
       
-#       - name: Deploy
-#         uses: peaceiris/actions-gh-pages@v3
-#         env:
-#           GCLOUD_API_KEY: ${{ secrets.GCLOUD_API_KEY }}
-
-
-
+      - id: upload-assets
+        uses: google-github-actions/upload-cloud-storage@main
+        with:
+          credentials: ${{ secrets.GCLOUD_SA_KEY }}
+          path: /public
+          destination: iancrosbytest
