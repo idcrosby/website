@@ -7,17 +7,15 @@ description = "Does this make me full stack?"
 tags = [
     "tech",
 ]
-categories = [
-    "cloud",
-    "test",
-]
 series = ["Learning-Tech"]
-image = "patrick-tomasso-GfDyRbLofHg-unsplash.jpg"
+feature_image = "patrick-tomasso-GfDyRbLofHg-unsplash.jpg"
 +++
+
+![Static](../images/patrick-tomasso-GfDyRbLofHg-unsplash.jpg)
 
 Having spent my career in tech between backend software development and infrastrucutre, the front end has always seemed like black magic to me. So when deciding to setup my own site I was a bit intimidated and also determined to not touch or see any css whatsover. As my previous experience can be summed up below:
 
-![CSS](./css.gif)
+![CSS](../images/css.gif)
 
 In addition to my no-css rule, I had a view other requirements:
 
@@ -37,7 +35,7 @@ Luckily, there are a plethora of wonderful and easy to use frameworks nowadays. 
 
 I sketched out a basic architecture/flow diagram of what I was planning to build:
 
-![Pipeline](./pipeline.png)
+![Pipeline](../images/pipeline.png)
 
 First step was to setup the basic site with Hugo. This is straightforward, simply following the Hugo [quick start guide](https://gohugo.io/getting-started/quick-start/) and choosing a theme. Hugo also makes local development extremely simple.
 
