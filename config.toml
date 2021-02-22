@@ -105,7 +105,7 @@ enforceLightMode = false
 # footerLogo = "icons/copy.svg"
 
 # Text for the languages menu.
-languageMenuName = "🌐"
+# languageMenuName = "🌐"
 
 # Title separator, default to |.
 # titleSeparator = "|"
@@ -125,5 +125,5 @@ languageMenuName = "🌐"
 
 # The year when ths website was created, this value is used in the copyright
 # notice of the footer.
-# since = 2016
+since = 2021
 
