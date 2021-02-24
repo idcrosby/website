@@ -1,6 +1,6 @@
 +++
 author = "Ian Crosby"
-title = "Building a Static Website"
+title = "Building a Static site with Hugo, GitHub Actions, and Google Cloud Storage"
 date = "2021-02-21"
 draft = false
 description = "Does this make me full stack?"
@@ -39,12 +39,14 @@ I sketched out a basic architecture/flow diagram of what I was planning to build
 
 First step was to setup the basic site with Hugo. This is straightforward, simply following the Hugo [quick start guide](https://gohugo.io/getting-started/quick-start/) and choosing a theme. Hugo also makes local development extremely simple.
 
-After that I setup a Google Cloud Storage bucket. If you have your own domain (as in my case), you can connect that domain directly with a storage bucket. This requires you to create a CNAME record that points to c.storage.googleapis.com. After that's created you can create the bucket via the gsutil command line tool:
+After that I setup a Google Cloud Storage bucket. If you have your own domain (as in my case), you can connect that domain directly with a storage bucket. This requires you to create a CNAME record with your domain provider that points to c.storage.googleapis.com. After that's created you can create the bucket via the gsutil command line tool:
 
     gsutil mb -c standard -l northamerica-northeast1 gs://www.my-domain.com
 
 `-c` specifies the storage class
 `-l` specifies the location/region
+
+You'll also need to [make the objects in the bucket publicly readable](https://cloud.google.com/storage/docs/access-control/making-data-public#buckets).
 
 Next up is setting up the CI/CD, which in this case is simply building the static assets and pushing them to a Google cloud storage bucket. I specifically chose to use GitHub actions because I've been looking for an excuse to try them out.
 
@@ -100,7 +102,7 @@ All that's left is adding in some basic configuration, and we end up with the fo
 
 _*Note I also added a deploy to staging which is triggered by PRs._
 
-Other steps:
+To complete the **D**(eployment) of the CI/CD we need to grant access for our pipeline to push our artifacts into the storage bucket. We can do this through [Service Accounts](https://cloud.google.com/iam/docs/understanding-service-accounts).
 
 Creating a service account to allow access for pushing to the Google Cloud Storage bucket.
 
@@ -114,7 +116,11 @@ Then we grant the required permissions:
         --member="serviceAccount:github-deploy-site@iancrosby-ca.iam.gserviceaccount.com" \
         --role="roles/storage.objectAdmin"
 
-And finally, we create the key which we can then store as a secret for our GitHub Action:
+Finally, we create the key which we can then store as a secret for our GitHub Action:
 
     gcloud iam service-accounts keys create ~/temp-key.json \
         --iam-account github-deploy-site@iancrosby-ca.iam.gserviceaccount.com
+
+And with that we have a fully automated deployment pipeline for our new site. Each code change to our repo's main branch will automatically get built, pushed to our storage bucket and is immediately live!
+
+There are few addional things which you may want to add, such as SSL, or a staging environment for previewing changes. I'll come back to these and a few other upgrades in a later post.
