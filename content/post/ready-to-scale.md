@@ -5,7 +5,6 @@ date = "2021-02-20"
 description = "A case study."
 categories = [
     "cloud",
-    "test",
 ]
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++

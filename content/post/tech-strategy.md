@@ -6,7 +6,6 @@ featured = true
 description = "A guide for how to define your tech strategy."
 categories = [
     "cloud",
-    "test",
 ]
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++

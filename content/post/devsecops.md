@@ -5,7 +5,6 @@ date = "2022-01-31"
 description = "Why Security has always been a part of DevOps."
 categories = [
     "cloud",
-    "test",
 ]
 featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
