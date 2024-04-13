@@ -3,14 +3,10 @@ author = "Ian Crosby"
 title = "Preparing to scale"
 date = "2021-02-20"
 description = "A case study."
-tags = [
-    "test",
-]
 categories = [
     "cloud",
     "test",
 ]
-series = ["None"]
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

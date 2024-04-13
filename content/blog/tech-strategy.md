@@ -2,15 +2,12 @@
 author = "Ian Crosby"
 title = "What is a tech strategy?"
 date = "2021-04-30"
+featured = true
 description = "A guide for how to define your tech strategy."
-tags = [
-    "test",
-]
 categories = [
     "cloud",
     "test",
 ]
-series = ["None"]
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

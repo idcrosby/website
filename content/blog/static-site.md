@@ -4,14 +4,10 @@ title = "Building a Static Website"
 date = "2021-02-21"
 draft = false
 description = "Does this make me full stack?"
-tags = [
-    "tech",
-]
 categories = [
     "cloud",
     "test",
 ]
-series = ["Learning-Tech"]
 image = "patrick-tomasso-GfDyRbLofHg-unsplash.jpg"
 +++
 
