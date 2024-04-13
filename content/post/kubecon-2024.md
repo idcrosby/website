@@ -1,6 +1,6 @@
 +++
 author = "Ian Crosby"
-title = "KubeCon EU 2024 Recap
+title = "KubeCon EU 2024 Recap"
 date = "2024-04-11"
 description = "KubeCon EU 2024 Recap"
 categories = [
