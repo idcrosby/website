@@ -2,7 +2,7 @@
 author = "Ian Crosby"
 title = "What is a tech strategy?"
 date = "2021-04-30"
-description = "Initial post for testing purposes."
+description = "A guide for how to define your tech strategy."
 tags = [
     "test",
 ]

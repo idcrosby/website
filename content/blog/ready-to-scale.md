@@ -2,7 +2,7 @@
 author = "Ian Crosby"
 title = "Preparing to scale"
 date = "2021-02-20"
-description = "Initial post for testing purposes."
+description = "A case study."
 tags = [
     "test",
 ]
