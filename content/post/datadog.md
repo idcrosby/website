@@ -10,6 +10,8 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
+_originally published on Container Solution's blog @ https://blog.container-solutions.com/monitoring-kubernetes-datadog _
+
 Monitoring is a crucial part of any production application, and it’s importance is increasing as we move towards cloud native. For all the benefits of distributed, microservice applications, there are challenges which come along as well. The complexity of the system has increased considerably. The number of pieces involved (applications, datastores, services, etc) has multiplied, and they are now distributed across various servers, data centers or even continents. On top of this, we should be treating all of these parts as dynamic and ephemeral. To get a grasp on these distributed applications and the infrastructure on which they run, a comprehensive monitoring solution is necessary. This is what we were looking for when we had the opportunity to contribute to the FashionTrade team as they moved towards their production launch.
 
  

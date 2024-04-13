@@ -10,6 +10,8 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
+_originally published on Container Solution's blog @ https://blog.container-solutions.com/container-solutions-expands-to-canada _
+
 At Container Solutions, we specialize in cloud native strategy and technologies. What that means practically is that on a day to day basis our engineers and consultants are working with organizations to assist them with cloud native transformations. From analyzing and understanding their current state to building a roadmap, architecture, and strategy, to implementing proper cloud native practices.
 
 We have been doing this for the past four years, focused primarily within Europe. Working remotely has become increasingly easier, especially in the tech industry. At Container Solutions we also do a large part of our work remotely, while engaging with clients across Europe, our engineers often work from our offices in Amsterdam, London or Berlin.

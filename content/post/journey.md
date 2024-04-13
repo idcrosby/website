@@ -10,8 +10,10 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
+** originally published on Container Solution's blog @ https://blog.container-solutions.com/my-journey_ian-crosby **
+
 “The stuff that I used to play with in my free time is now what I do day to day.”
---- Ian Crosby, aka Captain Canada: Container Solutions Engineer
+--- Ian Crosby: Container Solutions Engineer
 
 Alignment: Lawful Good.
 Captain Canada would use his superpowers to enable others to shine.

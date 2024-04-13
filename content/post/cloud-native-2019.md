@@ -1,7 +1,7 @@
 +++
 author = "Ian Crosby"
 title = "Cloud Native in 2019: A look ahead"
-date = "2022-01-31"
+date = "2019-01-14"
 description = "Preview of Cloud Native for 2019"
 categories = [
     "cloud",
@@ -9,6 +9,8 @@ categories = [
 featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
+
+_originally published on Container Solution's blog @ https://blog.container-solutions.com/cloud-native-in-2019-a-look-ahead _
 
 Cloud Native has been around for a few years now, but 2018 was the year Cloud Native crossed the chasm to go truly mainstream. From the explosion in the number of projects making up the CNCF landscape, to IBM’s $34 billion purchase of Red Hat under their Hybrid Cloud division, the increasingly wide adoption of Kubernetes, capped off by CloudNativeCon in Seattle with eight thousand attendees, the past year Cloud Native became the major trend in the industry.
 

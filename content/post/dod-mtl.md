@@ -1,7 +1,7 @@
 +++
 author = "Ian Crosby"
 title = "What we learned at DevOpsDays Montreal"
-date = "2022-01-31"
+date = "2019-11-19"
 description = "Recap of DevOpsDays Montreal"
 categories = [
     "cloud",
@@ -9,6 +9,8 @@ categories = [
 featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
+
+_originally published on Container Solution's blog @ https://blog.container-solutions.com/what-we-learned-at-devops-days-montreal-spoiler-a-lot _
 
 Community has always been a huge part of Container Solutions, from meetups to workshops to conferences. When we launched our new office in Montreal last year, we were eager to join in the local community by participating in events. So we co-sponsored last year’s DevOps Days Montreal. Earlier this month, we did it again. 
 

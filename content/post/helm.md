@@ -10,6 +10,8 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
+_originally published on Container Solution's blog @ https://blog.container-solutions.com/delivering-kubernetes-native-applications-with-helm _
+
 Last week, at the GOTO Conference Amsterdam, I gave a talk on how Kubernetes is in the process of crossing The Chasm. As in, the notable (and perilous) gap that exists in the Technology Adoption Lifecycle spectrum between early adopters -- who are willing to invest sweat equity in new/developing technologies -- and mainstream users looking for a turn-key solution with a mature feature set and tooling. Kubernetes is at a critical crossover point and my talk explores the factors indicating if it will successfully complete its jump to the mainstream.
 
 Kubernetes is becoming a widespread commodity, and with it comes an increasingly robust ecosystem of products and tooling. But the wider Kubernetes spreads, the broader the spectrum of use cases people will try to apply it to.

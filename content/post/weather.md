@@ -10,6 +10,8 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
+** originally published on Container Solution's blog @ https://blog.container-solutions.com/weather-predictions-straight-from-the-cloud **
+
 Can a fleet of customized drones improve your daily commute? We recently connected with the Swiss meteorological gurus at Meteomatics who have developed specialized drones to collect and transmit weather data. We teamed up with them to find out the benefits of their new technology and what sort of issues it might be able to solve.
 
 The Problem
