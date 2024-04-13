@@ -10,7 +10,7 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
-_originally published on Container Solution's blog @ https://blog.container-solutions.com/7-cloud-native-trends-to-watch-in-2020 _
+** originally published on Container Solution's blog @ https://blog.container-solutions.com/7-cloud-native-trends-to-watch-in-2020 **
 
 As Cloud Native continues to grow in popularity, with more organisations than ever adopting the tech and all that comes with it, let’s take a look at what we are expecting to see in 2020.
 

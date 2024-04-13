@@ -10,7 +10,7 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
-_originally published on Container Solution's blog @ https://blog.container-solutions.com/container-solutions-expands-to-canada _
+** originally published on Container Solution's blog @ https://blog.container-solutions.com/container-solutions-expands-to-canada **
 
 At Container Solutions, we specialize in cloud native strategy and technologies. What that means practically is that on a day to day basis our engineers and consultants are working with organizations to assist them with cloud native transformations. From analyzing and understanding their current state to building a roadmap, architecture, and strategy, to implementing proper cloud native practices.
 

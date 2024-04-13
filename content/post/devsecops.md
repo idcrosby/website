@@ -10,7 +10,7 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
-_originally published on Container Solution's blog @ https://blog.container-solutions.com/devsecops _
+** originally published on Container Solution's blog @ https://blog.container-solutions.com/devsecops **
 
 There are two hard problems in tech: cache invalidation, naming things, and off by one errors. We have proven this over and over again through a multitude of poorly named things. Whether it’s AWS Services called things like Athena, Cloud9, Snowball, and Snowmobile, the over exploitation of Greek nautical words, or my personal pet peeve, “The Cloud”, we are, not to put too fine a point on it, utterly shit at names.
 Most often a bad name is harmless, or at worst a minor annoyance, but sometimes a term can have adverse consequences. Buzzword de jour DevSecOps is one those terms I personally take exception to—it sets up false expectations and, being a buzzword, lacks nuance.

@@ -10,7 +10,7 @@ featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
-_originally published on Container Solution's blog @ https://blog.container-solutions.com/production-ready-ingress-kubernetes _
+** originally published on Container Solution's blog @ https://blog.container-solutions.com/production-ready-ingress-kubernetes **
 
 I recently had an interesting project building a proof of concept for a cloud based platform. The PoC is composed of a few services, a message queue and a couple simple UIs. All the pieces are containerized and deployed on Kubernetes (GKE).  As a final task before sending this over to the client, I needed to expose the front end publicly. What seemed like a straightforward task turned out to be a bit more time consuming, partially due to the specific requirements and partially due to an intricate technical complexity (typo in a config file). I learned quite a bit in the process so I thought I would share the steps I went through for anyone else who travels down this road.
 
