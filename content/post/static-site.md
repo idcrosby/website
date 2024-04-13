@@ -4,10 +4,6 @@ title = "Building a Static site with Hugo, GitHub Actions, and Google Cloud Stor
 date = "2021-02-21"
 draft = false
 description = "Does this make me full stack?"
-tags = [
-    "tech",
-]
-series = ["Learning-Tech"]
 feature_image = "patrick-tomasso-GfDyRbLofHg-unsplash.jpg"
 +++
 
