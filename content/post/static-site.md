@@ -7,11 +7,11 @@ description = "Does this make me full stack?"
 feature_image = "patrick-tomasso-GfDyRbLofHg-unsplash.jpg"
 +++
 
-![Static](../images/patrick-tomasso-GfDyRbLofHg-unsplash.jpg)
+![Static](../../images/patrick-tomasso-GfDyRbLofHg-unsplash.jpg)
 
 Having spent my career in tech between backend software development and infrastrucutre, the front end has always seemed like black magic to me. So when deciding to setup my own site I was a bit intimidated and also determined to not touch or see any css whatsover. As my previous experience can be summed up below:
 
-![CSS](../images/css.gif)
+![CSS](../../images/css.gif)
 
 In addition to my no-css rule, I had a view other requirements:
 
