@@ -2,7 +2,6 @@
 author = "Ian Crosby"
 title = "You don't need Kubernetes, you need unit tests."
 date = "2019-04-11"
-featured = true
 description = "You don't need Kubernetes, you need unit tests."
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++

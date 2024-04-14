@@ -4,7 +4,7 @@ title = "Building a Static site with Hugo, GitHub Actions, and Google Cloud Stor
 date = "2021-02-21"
 draft = false
 description = "Does this make me full stack?"
-feature_image = "patrick-tomasso-GfDyRbLofHg-unsplash.jpg"
+feature_image = "../../impatrick-tomasso-GfDyRbLofHg-unsplash.jpg"
 +++
 
 ![Static](../../images/patrick-tomasso-GfDyRbLofHg-unsplash.jpg)
@@ -31,7 +31,7 @@ Luckily, there are a plethora of wonderful and easy to use frameworks nowadays. 
 
 I sketched out a basic architecture/flow diagram of what I was planning to build:
 
-![Pipeline](../images/pipeline.png)
+![Pipeline](../../images/pipeline.png)
 
 First step was to setup the basic site with Hugo. This is straightforward, simply following the Hugo [quick start guide](https://gohugo.io/getting-started/quick-start/) and choosing a theme. Hugo also makes local development extremely simple.
 
