@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "Cloud Native in 2019: A look ahead"
 date = "2019-01-14"
 description = "Preview of Cloud Native for 2019"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

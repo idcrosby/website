@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "Production Ready Ingress on Kubernetes"
 date = "2018-02-07"
 description = "Production Ready Ingress on Kubernetes"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "Monitoring Kubernetes with DataDog"
 date = "2017-03-16"
 description = "Monitoring Kubernetes with DataDog"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

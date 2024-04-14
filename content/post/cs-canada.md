@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "Container Solutions expands to Canada"
 date = "2018-09-14"
 description = "Container Solutions expands to Canada"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "Securing Dynamic Environments in Kubernetes"
 date = "2017-12-07"
 description = "Securing Dynamic Environments in Kubernetes"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

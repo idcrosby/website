@@ -2,11 +2,7 @@
 author = "Ian Crosby"
 title = "7 Cloud Native Trends for 2020"
 date = "2020-01-13"
-description = "Preview of Cloud Native for 2020"
-categories = [
-    "cloud",
-]
-featured = true
+description = "Preview of Cloud Native for 2019"
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

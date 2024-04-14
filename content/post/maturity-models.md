@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "In Defence of Maturity Models"
 date = "2019-05-08"
 description = "In Defence of Maturity Models"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

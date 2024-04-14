@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "DevOps, the Sec is silent"
 date = "2022-01-31"
 description = "Why Security has always been a part of DevOps."
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

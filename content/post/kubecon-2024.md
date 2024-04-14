@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "KubeCon EU 2024 Recap"
 date = "2024-04-11"
 description = "KubeCon EU 2024 Recap"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

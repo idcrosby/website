@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "My Journey: From Engineer to Founder"
 date = "2018-03-28"
 description = "My Journey: From Engineer to Founder"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

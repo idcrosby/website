@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "Weather Predictions Straight from the Cloud"
 date = "2016-02-16"
 description = "Weather Predictions Straight from the Cloud"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

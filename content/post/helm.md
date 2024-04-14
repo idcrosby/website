@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "Delivering Kubernetes Native Applications with Helm"
 date = "2018-06-29"
 description = "Delivering Kubernetes Native Applications with Helm"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 

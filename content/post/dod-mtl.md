@@ -3,10 +3,6 @@ author = "Ian Crosby"
 title = "What we learned at DevOpsDays Montreal"
 date = "2019-11-19"
 description = "Recap of DevOpsDays Montreal"
-categories = [
-    "cloud",
-]
-featured = true
 image = "danielle-macinnes-IuLgi9PWETU-unsplash.jpg"
 +++
 
