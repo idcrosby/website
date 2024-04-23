@@ -1,7 +1,6 @@
 +++
 title = "About"
 description = "Technology Enthusiast. All things Cloud Native."
-date = "2021-02-20"
 aliases = ["about-me", "contact"]
 author = "Ian Crosby"
 lastmod = "2021-02-20"
@@ -26,4 +25,3 @@ Some of my previous talks
 * [Kubernetes Crossing the Chasm](https://conferences.oreilly.com/velocity/vl-ny/public/schedule/speaker/159687.html)
 * [DevOps](https://www.youtube.com/watch?v=V495P4HnwW8&ab_channel=GOTOMeetups)
 * [Monoliths, Microservices, and Serverless](https://www.youtube.com/watch?v=ufeZfCFVCuM&ab_channel=DevOpsDaysBoston)
-
